@@ -9,6 +9,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class Base_class {
+    //To add comment just to git hub demo purpose
 	public WebDriver driver;
 	public WebDriver driver_initialization() throws IOException {
 		Properties prop = new Properties();//properties is java class
